@@ -1,0 +1,39 @@
+Cliente,C_nombre,Zona,Z_nombre
+1,El baratillo,1,GDL
+2,San juan Mercado,1,GDL
+3,Liverpool GDL,1,GDL
+4,Pablo's,2,ALT
+5,Robinson,2,ALT
+6,H&M CGM,3,CGM
+7,H&M COL,4,COL
+8,Innova Sports CGM,3,CGM
+9,Alexa Boutique,2,ALT
+10,Liverpool CGM,3,CGM
+11,Innova Sports COL,4,COL
+13,Liverpool COL,4,COL
+14,Lefties CGM,3,CGM
+15,Bershka CGM,3,CGM
+16,LOB CGM,3,CGM
+17,El secreto Elegancia,2,ALT
+18,Sears CGM,3,CGM
+20,Caprichosos,2,ALT
+21,Shein MNO,5,MNO
+22,LOB MNO,5,MNO
+23,Bershka MNO,5,MNO
+28,Liverpool MNO,5,MNO
+29,LOB TPC,6,TPC
+30,Shein CGM,3,CGM
+36,H&M TPC,6,TPC
+39,Sears TPC,6,TPC
+50,LOB COL,4,COL
+51,Tienda de Ropa Wendoly,7,OTR
+52,Tienda de Ropa La China,7,OTR
+53,Tienda de Ropa America,7,OTR
+54,Promoda,7,OTR
+61,Quarry Jeans,7,OTR
+62,Tienda de Ropa Innes,7,OTR
+63,Tienda de Ropa Jazz,7,OTR
+64,Tienda de Ropa Marilu,7,OTR
+89,Tienda de Ropa Chick,7,OTR
+90,Tienda de Ropa La bodeguita,7,OTR
+100,Caleria del Calzado,1,GDL

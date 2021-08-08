@@ -1,0 +1,101 @@
+TipoArtículo,Tipo,Clasificacion,Genero
+0,skinni,pantalon,Hombre
+1,baggy,pantalon,Hombre
+2,regular,pantalon,Hombre
+3,vaquero,pantalon,Hombre
+4,campana,pantalon,Hombre
+5,capri,pantalon,Hombre
+6,tiro alto,pantalon,Hombre
+7,recto,pantalon,Hombre
+8,ancho,pantalon,Hombre
+9,pinzas,pantalon,Hombre
+10,cargo,pantalon,Hombre
+11,skinni,pantalon,Mujer
+12,baggy,pantalon,Mujer
+13,regular,pantalon,Mujer
+14,vaquero,pantalon,Mujer
+15,campana,pantalon,Mujer
+16,capri,pantalon,Mujer
+17,tiro alto,pantalon,Mujer
+18,recto,pantalon,Mujer
+19,ancho,pantalon,Mujer
+20,pinzas,pantalon,Mujer
+21,cargo,pantalon,Mujer
+22,Slim,Camisas,Hombre
+23,Casual,Camisas,Hombre
+24,Formal,Camisas,Hombre
+25,Larga,Camisas,Hombre
+26,manga larga,Camisas,Hombre
+27,manga corta,Camisas,Hombre
+28,cuello ingles,Camisas,Hombre
+29,italiano,Camisas,Hombre
+30,cutaway,Camisas,Hombre
+31,smoking,Camisas,Hombre
+32,ingles,Camisas,Hombre
+33,Estampado,Blusas,Mujer
+34,mangas cortas,Blusas,Mujer
+35,mangas largas,Blusas,Mujer
+36,Vichy,Blusas,Mujer
+37,a rayas,Blusas,Mujer
+38,asimetrica,Blusas,Mujer
+39,blondas,Blusas,Mujer
+40,Casual,Blusas,Mujer
+41,Formal,Blusas,Mujer
+42,corte V,Blusas,Mujer
+43,Tanga,Ropa Interior,Mujer
+44,bikini,Ropa Interior,Mujer
+45,boxer,Ropa Interior,Mujer
+46,trusas,Ropa Interior,Mujer
+47,hilo,Ropa Interior,Mujer
+48,cachetero,Ropa Interior,Mujer
+49,boxer clasico,Ropa Interior,Hombre
+50,calzoncillo,Ropa Interior,Hombre
+51,suspensorio,Ropa Interior,Hombre
+52,Tanga,Ropa Interior,Hombre
+53,Slip,Ropa Interior,Hombre
+54,boxer ajustado,Ropa Interior,Hombre
+55,Bota minera,Calzado,Hombre
+56,Bota vaquera,Calzado,Hombre
+57,Tenis Correr,Calzado,Hombre
+59,Tenis entrenamiento,Calzado,Hombre
+60,Tenis Futbol,Calzado,Hombre
+61,Mocasin,Calzado,Hombre
+62,Zapato Casual,Calzado,Hombre
+63,Zapato Derbi,Calzado,Hombre
+64,Sandalias,Calzado,Hombre
+65,Botin,Calzado,Hombre
+66,Zapatilla,Calzado,Mujer
+67,Baile,Calzado,Mujer
+68,Bota vaquera,Calzado,Mujer
+69,Tenis Correr,Calzado,Mujer
+70,Tenis entrenamiento,Calzado,Mujer
+71,Tenis Futbol,Calzado,Mujer
+72,Zapato abierto,Calzado,Mujer
+73,Cerrado,Calzado,Mujer
+74,Plataforma,Calzado,Mujer
+75,Sandalias,Calzado,Mujer
+76,Botin,Calzado,Mujer
+77,Recto,Vestido,Mujer
+78,Imperio,Vestido,Mujer
+79,Alta,Vestido,Mujer
+80,Tubo,Vestido,Mujer
+82,Canesu,Vestido,Mujer
+83,Tunica,Vestido,Mujer
+84,Ablusado,Vestido,Mujer
+85,Cierre Asimetrico,Vestido,Mujer
+86,cintura alta,Vestido,Mujer
+87,Camisero,Vestido,Mujer
+88,Evase,Vestido,Mujer
+89,Doble boton,Traje,Hombre
+90,Frac,Traje,Hombre
+91,Cuallo Mao,Traje,Hombre
+92,Emoquin,Traje,Hombre
+93,Ejecutivo,Traje,Hombre
+94,Slim Fit,Traje,Hombre
+95,Tailored Fit,Traje,Hombre
+96,Classic Fit,Traje,Hombre
+97,De viaje,Sombrero,Mujer
+99,campana,Sombrero,Mujer
+101,Prokpie,Sombrero,Mujer
+102,de Playa,Sombrero,Mujer
+103,Player,Sombrero,Mujer
